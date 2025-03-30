@@ -10,5 +10,5 @@ It supports the following functionalities:-
 - Adding Data
 - Updating Data
 - Displaying the required Data
-- Deleting Data (Either one at atime or clearing the whole table)
+- Deleting Data (Either one at at ime or clearing the whole table)
 - Handling unexpected program shutdowns due to exceptions using exception handling
